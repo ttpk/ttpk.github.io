@@ -5,6 +5,8 @@ title: Teamspeak-Serverdaten
 
 Der TeamSpeak-Server wird gesponsert von Till ([blogkollektiv.net](http://blogkollektiv.net)), der auch gleichzeitig der Ansprechpartner für eventuelle Fragen zum Server ist. Ihr erreicht ihn via Twitter unter [@craive](https://twitter.com/craive).
 
+Wir verwenden zur In-Game-Kommunikation ausschließlich TeamSpeak. Bevor ihr in ein Spiel kommt, meldet euch bitte zuerst in TeamSpeak an und kommt in den passenden Raum. Vermeidet es bitte möglichst andere Spieler damit zu verwirren, dass man euch In-Game nicht kontaktieren kann. :)
+
 ### Serverdaten
 
 Name: Die Feierabendbude  

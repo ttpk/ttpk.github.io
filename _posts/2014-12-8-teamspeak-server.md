@@ -7,8 +7,8 @@ Der TeamSpeak-Server wird gesponsert von Till ([blogkollektiv.net](http://blogko
 
 ### Serverdaten
 
-Name: Die Feierabendbude
-IP-Adresse: 85.114.154.43:10451
+Name: Die Feierabendbude  
+IP-Adresse: 85.114.154.43:10451  
 Passwort: bananarama
 
 Wir verwenden in der Regel folgende Räume (Channels):

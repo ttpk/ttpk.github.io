@@ -7,7 +7,7 @@ Der TeamSpeak-Server wird gesponsert von Till ([blogkollektiv.net](http://blogko
 
 Wir verwenden zur In-Game-Kommunikation ausschließlich TeamSpeak. Bevor ihr in ein Spiel kommt, meldet euch bitte zuerst in TeamSpeak an und kommt in den passenden Raum. Vermeidet es bitte möglichst andere Spieler damit zu verwirren, dass man euch In-Game nicht kontaktieren kann. :)
 
-### Serverdaten
+## Serverdaten
 
 Name: Die Feierabendbude  
 IP-Adresse: 85.114.154.43:10451  
@@ -19,7 +19,7 @@ Wir verwenden in der Regel folgende Räume (Channels):
 - Spielzimmer  
 - Besenkammer  
 
-### Anleitungen
+## Anleitungen
 
 **Wie könnt ihr TeamSpeak nutzen?**  
 Ihr benötigt die kostenfreie Software von [TeamSpeak](http://www.teamspeak.com), um diesen Kommunikationsweg nutzen zu können. Ebenfalls benötigt ihr ein Headset/Mikrofon sowie Kopfhörer/Lautsprecher. Es ist sehr ratsam ein Headset zu verwenden, um nervige Nebengeräusche auch für die anderen Spieler auszuschließen bzw. zu minimieren.

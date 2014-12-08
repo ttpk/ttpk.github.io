@@ -18,7 +18,7 @@ Zurzeit spielen wir zum Beispiel folgende Spiele:
 
 ### Kommunikation
 
-Wir kommunizieren hauptsächlich über eine Gruppe in [Telegram](https://telegram.org) sowie In-Game über den TeamSpeak-Server.
+Wir kommunizieren hauptsächlich über eine Gruppe in [Telegram](https://telegram.org) sowie In-Game über den TeamSpeak-Server. Auf Facebook haben wir zudem eine [Gruppe](https://www.facebook.com/groups/437059753100809/) eingerichtet.
 
 ### Kontakt aufnehmen
 

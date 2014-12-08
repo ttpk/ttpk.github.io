@@ -58,30 +58,30 @@ Sollte ein Steam-Freund gerade spielen, ihr aber keine Ahnung haben wo, lasst eu
 
 ## CS:GO-Map-Collections
 
-**Complete-Collection** (Alle Maps aus allen Packages auf einmal)  
-http://steamcommunity.com/sharedfiles/filedetails/?id=314510537  
+**Complete-Collection** (Alle Maps aus allen Packages (außer "TESTING") auf einmal)  
+[http://steamcommunity.com/sharedfiles/filedetails/?id=314510537](http://steamcommunity.com/sharedfiles/filedetails/?id=314510537)  
 
-**Information:** Öffnet die Complete-Collection und klickt auf “Alle abonnieren”, dann werden die Maps in euren Steam-Account geladen. So habt ihr immer die neuesten Versionen und müsst beim Map-Wechsel auch nicht mehr warten, bis die Map während des Spiels runtergeladen ist. Die einzelnen Packages sind dafür da, um zu sehen, was aktuell auf dem Server läuft (Name jeweils siehe der Serverliste).
+Öffnet die Complete-Collection und klickt auf “Alle abonnieren”, dann werden die Maps in euren Steam-Account geladen. So habt ihr immer die neuesten Versionen und müsst beim Map-Wechsel auch nicht mehr warten, bis die Map während des Spiels runtergeladen ist. Die einzelnen Packages sind dafür da, um zu sehen, was aktuell auf dem Server läuft (Name jeweils siehe der Serverliste).
 
 ### Einzel-Collections:
 
-#TTPK Demolition Collection  
+TTPK Demolition Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=316624583](http://steamcommunity.com/sharedfiles/filedetails/?id=316624583)  
 
-#TTPK Armsrace Collection  
+TTPK Armsrace Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=316703826](http://steamcommunity.com/sharedfiles/filedetails/?id=316703826)  
 
-#TTPK Classic Collection  
+TTPK Classic Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=317393762](http://steamcommunity.com/sharedfiles/filedetails/?id=317393762)  
 
-#TTPK Deathmatch Collection  
+TTPK Deathmatch Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=316680417](http://steamcommunity.com/sharedfiles/filedetails/?id=316680417)  
 
-#TTPK Competitive ESL Collection  
+TTPK Competitive ESL Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=321431103](http://steamcommunity.com/sharedfiles/filedetails/?id=321431103)  
 
-#TTPK Competitive FUN Collection  
+TTPK Competitive FUN Collection  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=321431208](http://steamcommunity.com/sharedfiles/filedetails/?id=321431208)  
 
-#TTPK Classic Collection TESTING  
+TTPK Classic Collection TESTING  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=316697662](http://steamcommunity.com/sharedfiles/filedetails/?id=316697662)  

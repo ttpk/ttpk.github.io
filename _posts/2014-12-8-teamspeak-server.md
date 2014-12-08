@@ -13,7 +13,8 @@ Name: Die Feierabendbude
 IP-Adresse: 85.114.154.43:10451  
 Passwort: bananarama  
 
-Wir verwenden in der Regel folgende Räume (Channels):  
+Wir verwenden in der Regel folgende Räume (Channels):
+
 - Wuthöhle  
 - Spielzimmer  
 - Besenkammer  
@@ -35,5 +36,5 @@ Um nervige Nebengeräusche auszuschließen, ist es sehr ratsam Push-To-Talk zu v
 **Welche Einstellungen verwendet ihr?**  
 Man kann es leider nicht so pauschal sagen, da es auf eure Umgebung und Hardware ankommt. In letzter Zeit haben einige Spieler von uns aber folgende Einstellungen in ihrem TeamSpeak gewählt:
 
-- Wiedergabe: "Sprachlautstärke" auf **+15 dB** und "Lautstärke des Sound Packs" auf **-10 dB**  
+- Wiedergabe: "Sprachlautstärke" auf **+15 dB**  
 - Aufnahme: "Sprachaktivierung" auf circa **-25**  

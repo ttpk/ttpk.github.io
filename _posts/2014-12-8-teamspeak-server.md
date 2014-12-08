@@ -14,9 +14,9 @@ IP-Adresse: 85.114.154.43:10451
 Passwort: bananarama  
 
 Wir verwenden in der Regel folgende Räume (Channels):  
-* Wuthöhle  
-* Spielzimmer  
-* Besenkammer  
+- Wuthöhle  
+- Spielzimmer  
+- Besenkammer  
 
 ### Anleitungen
 
@@ -33,6 +33,7 @@ Abgesehen davon, dass euer Mikrofon und Lautsprecher funktionieren sollten, soll
 Um nervige Nebengeräusche auszuschließen, ist es sehr ratsam Push-To-Talk zu verwenden. Sprich, dass eure Gequatsche nur übertragen wird, wenn ihr dabei eine Taste gedrückt haltet. Das ist aber Geschmackssache. Wichtiger ist jedoch, dass ihr in den Audioeinstellungen zum Beispiel in CS:GO Push-To-Talk deaktiviert, wenn ihr es in Teamspeak verwendet. Sonst kommt bei den Mitspielern alles doppelt an. Bitte hört darauf, wenn euch jemand sagt, dass bei euch beim Sound etwas nicht stimmt. Ihr geht sonst allen Channel-Teilnehmern gleichzeitig auf die Ketten!
 
 **Welche Einstellungen verwendet ihr?**  
-Man kann es leider nicht so pauschal sagen, da es auf eure Umgebung und Hardware ankommt. In letzter Zeit haben einige Spieler von uns aber folgende Einstellungen in ihrem TeamSpeak gewählt:  
-* Wiedergabe: "Sprachlautstärke" auf **+15 dB** und "Lautstärke des Sound Packs" auf **-10 dB**  
-* Aufnahme: "Sprachaktivierung" auf circa **-25**  
+Man kann es leider nicht so pauschal sagen, da es auf eure Umgebung und Hardware ankommt. In letzter Zeit haben einige Spieler von uns aber folgende Einstellungen in ihrem TeamSpeak gewählt:
+
+- Wiedergabe: "Sprachlautstärke" auf **+15 dB** und "Lautstärke des Sound Packs" auf **-10 dB**  
+- Aufnahme: "Sprachaktivierung" auf circa **-25**  

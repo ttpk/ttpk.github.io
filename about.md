@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: Über uns
 permalink: /about/
 ---
 
-Some information about you!
+Wir sind eine Gruppe von Spielern, Bloggern und Co., die sich je nach eigener Verfügbarkeit fast täglich im TeamSpeak zum Zocken zusammenfinden. Keine fixen Termine, kein Trainingsplan und so ziemlich offen für jeden, der Lust am Spielen hat. Außer Nazis und Trollen.
 
-### More Information
+### Aktuelle Spiele
 
-A place to include any other types of information that you'd like to include about yourself. 
+Zurzeit spielen wir zum Beispiel folgende Spiele:
 
-### Contact me
+* Counter-Strike: Global Offensive (CS:GO)
+* GRID Autosport
+* DIRT Showdown
+* Left 4 Dead 2 (L4D2)
+* Awesomenauts
 
-[email@domain.com](mailto:email@domain.com)
+### Kontakt aufnehmen
+
+[m@ttpk.de](mailto:m@ttpk.de) oder direkt bei Andi [@mightynoise](https://twitter.com/mightynoise)

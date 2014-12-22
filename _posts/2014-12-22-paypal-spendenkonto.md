@@ -24,7 +24,7 @@ Wir setzen das Geld ausschließlich für Server, Games und je nachdem was am End
 Die bisherigen Beträge variieren zwischen einem Euro und 15 Euro pro Zahlung.  
 
 **Was kosten Gameslots denn so?**  
-Aktuell setzen wir für CS:GO z. B. einen virtualisierten Server ein, der regulär circa 25 Euro im Monat kostet und alle sechs CS:GO-Server von uns schaukelt. Bei Minecraft kostet uns ein Spieler-Slot pro Monat aktuell 0,80 Euro.  
+Aktuell setzen wir für CS:GO z. B. einen virtualisierten Server ein, der regulär circa 25 Euro pro Monat kostet und alle sechs CS:GO-Server von uns schaukelt. Bei Minecraft kostet uns ein Spieler-Slot pro Monat aktuell 0,80 Euro.  
 
 **Wer verwaltet das Geld?**  
 Das Konto wird von Andi geführt, einen vollständigen Zugang haben mehrere Spieler - wie z. B. Rico und Till. Transparenz ist wichtig, deswegen gehen wir diesen, für alle Spieler klar nachvollziehbaren Weg.  

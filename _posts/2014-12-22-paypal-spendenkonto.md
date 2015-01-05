@@ -36,8 +36,11 @@ Die bisherigen Beträge variieren zwischen einem Euro und 15 Euro pro Zahlung.
 **Was kosten Gameslots denn so?**  
 Aktuell setzen wir für CS:GO z. B. einen virtualisierten Server ein, der regulär circa 25 Euro pro Monat kostet und alle sechs CS:GO-Server von uns schaukelt. Bei Minecraft kostet uns ein Spieler-Slot pro Monat aktuell 0,80 Euro.  
 
+**Was kostet denn der TeamSpeak-Server?**
+Till bezahlt aktuell 0,15 Euro (netto) pro TeamSpeak-Slot. Da der Server momentan 30 Slots bietet, macht das also etwas mehr als 5 Euro pro Monat nur für die Kommunikation. Skype und Co. sind jedoch keine Alternative.  
+
 **Wer verwaltet das Geld?**  
 Das Konto wird von Andi geführt, einen vollständigen Zugang haben mehrere Spieler - wie z. B. Rico und Till. Transparenz ist wichtig, deswegen gehen wir diesen, für alle Spieler klar nachvollziehbaren Weg.  
 
-**Wieso an die GLS-Bank und nicht direkt an PayPal überweisen?**
+**Wieso an die GLS-Bank und nicht direkt an PayPal überweisen?**  
 PayPal unterstützt leider nur eine klassische Überweisungen an das "digitale" PayPal-Konto, von den im PayPal-Konto verifizierten Bankkonten. Das ist in diesem Fall das GLS-Bankkonto von Andi. Durch den Verwendungszweck weiß Andi direkt, was mit dem Geld anzufangen ist und überweist es so auf das PayPal-Konto. So landet am Ende alles auf dem PayPal-Konto und wir behalten den Überblick. Umständlicher geht es dank PayPal leider nicht, doch so werden alle glücklich.  

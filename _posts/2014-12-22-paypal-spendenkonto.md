@@ -36,7 +36,7 @@ Die bisherigen Beträge variieren zwischen einem Euro und 15 Euro pro Zahlung.
 **Was kosten Gameslots denn so?**  
 Aktuell setzen wir für CS:GO z. B. einen virtualisierten Server ein, der regulär circa 25 Euro pro Monat kostet und alle sechs CS:GO-Server von uns schaukelt. Bei Minecraft kostet uns ein Spieler-Slot pro Monat aktuell 0,80 Euro.  
 
-**Was kostet denn der TeamSpeak-Server?**
+**Was kostet denn der TeamSpeak-Server?**  
 Till bezahlt aktuell 0,15 Euro (netto) pro TeamSpeak-Slot. Da der Server momentan 30 Slots bietet, macht das also etwas mehr als 5 Euro pro Monat nur für die Kommunikation. Skype und Co. sind jedoch keine Alternative.  
 
 **Wer verwaltet das Geld?**  

@@ -38,3 +38,6 @@ Aktuell setzen wir für CS:GO z. B. einen virtualisierten Server ein, der regul�
 
 **Wer verwaltet das Geld?**  
 Das Konto wird von Andi geführt, einen vollständigen Zugang haben mehrere Spieler - wie z. B. Rico und Till. Transparenz ist wichtig, deswegen gehen wir diesen, für alle Spieler klar nachvollziehbaren Weg.  
+
+**Wieso an die GLS-Bank und nicht direkt an PayPal überweisen?**
+PayPal unterstützt leider nur eine klassische Überweisungen an das "digitale" PayPal-Konto, von den im PayPal-Konto verifizierten Bankkonten. Das ist in diesem Fall das GLS-Bankkonto von Andi. Durch den Verwendungszweck weiß Andi direkt, was mit dem Geld anzufangen ist und überweist es so auf das PayPal-Konto. So landet am Ende alles auf dem PayPal-Konto und wir behalten den Überblick. Umständlicher geht es dank PayPal leider nicht, doch so werden alle glücklich.  

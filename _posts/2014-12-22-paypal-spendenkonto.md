@@ -15,6 +15,16 @@ Um diesen Service kümmert sich Andi ([mightynoise.com](http://www.mightynoise.c
 *Natürlich von der Sammelstelle deines hart verdienen Mammon: deinem Konto!  
 **Karma, Baby!  
 
+## Spenden ohne PayPal-Konto
+
+Du kannst auch ohne PayPal-Konto gerne dein Geld für die Gute Sache loswerden! Bitte vergiss nicht, den Verwendungszweck "TTPK" bei deiner Überweisung mit anzugeben, damit wir das Geld auch passend zuordnen können und es einzig auch für TTPK genutzt werden kann.  
+
+**Kontoinhaber:** Andreas Wieser  
+**Kreditinstitut:** GLS Gemeinschaftsbank eG  
+**IBAN:** DE15430609676028503600  
+**BIC:** GENODEM1GLS  
+**Verwendungszweck:** TTPK  
+
 ## FAQ
 
 **Was macht ihr mit der Kohle?**  

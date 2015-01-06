@@ -3,7 +3,7 @@ layout: post
 title: Insurgency-Serverdaten
 ---
 
-Wir betreiben ein paar Insurgency-Server für den Public- und den Secret-Betrieb. Verwaltet werden die Gameserver von Andi ([mightynoise.com](http://www.mightynoise.com)), der auch gleichzeitig der Ansprechpartner für eventuelle Fragen zu den Servern ist. Ihr erreicht ihn via Twitter unter [@mightynoise](https://twitter.com/mightynoise).
+Wir betreiben ein paar Insurgency-Server für den Public- und den Secret-Betrieb als COOP- sowie Server, die alle Gamemodes von Insurgency nach Voting frei zulassen. Verwaltet werden die Gameserver von Andi ([mightynoise.com](http://www.mightynoise.com)), der auch gleichzeitig der Ansprechpartner für eventuelle Fragen zu den Servern ist. Ihr erreicht ihn via Twitter unter [@mightynoise](https://twitter.com/mightynoise).
 
 Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele und damit auch die Verbindungsdaten für die Server. So kann es schon einmal vorkommen, dass man sich nicht auf den Server verbinden kann. Hierzu bitte einfach eine kurze Nachricht via Twitter direkt an Andi oder in unsere Telegram-Gruppe absetzen. Alle Server werden jeden Morgen zwischen 5 Uhr und 6 Uhr automatisch geupdated.
 

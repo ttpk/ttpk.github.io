@@ -5,45 +5,46 @@ title: CS:GO-Serverdaten
 
 Die CS:GO-Server werden gesponsert von Andi ([mightynoise.com](http://www.mightynoise.com)), der auch gleichzeitig der Ansprechpartner für eventuelle Fragen zu den Servern ist. Ihr erreicht ihn via Twitter unter [@mightynoise](https://twitter.com/mightynoise).
 
-Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele und damit auch die Verbindungsdaten für die Server. So kann es schon einmal vorkommen, dass man sich nicht auf den Server verbinden kann. Hierzu bitte einfach eine kurze Nachricht via Twitter direkt an Andi oder in unsere Telegram-Gruppe absetzen.
+Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele und damit auch die Verbindungsdaten für die Server. So kann es schon einmal vorkommen, dass man sich nicht auf den Server verbinden kann. Hierzu bitte einfach eine kurze Nachricht via Twitter direkt an Andi oder in unsere Telegram-Gruppe absetzen. Alle Server werden jeden Morgen zwischen 4 Uhr und 5 Uhr automatisch geupdated.
 
 ## Serverdaten
 
-**COMPETITIVE-Server (FUN)**  
-IP-Adresse: 141.101.33.156:27515  
-Name: #TTPK CS:GO Server FUN Competitive  
-Collection: #TTPK Competitive FUN Collection  
-Passwort: Kein Passwort  
-
-**COMPETITIVE-Server (ESL)**  
-IP-Adresse: 141.101.33.156:27415  
-Name: #TTPK CS:GO Server ESL Competitive  
-Collection: #TTPK Competitive ESL Collection  
-Passwort: Kein Passwort  
-
-**CASUAL-Server (“CLASSIC”)**  
-IP-Adresse: 141.101.33.156:27115  
-Name: #TTPK CS:GO Server Casual  
-Collection: #TTPK Classic Collection  
-Passwort: Kein Passwort  
-
-**DEATHMATCH-Server**  
-IP-Adresse: 141.101.33.156:27015  
-Name: #TTPK CS:GO Server Deathmatch  
+**[#1] DEATHMATCH-Server**  
+IP-Adresse: 176.9.104.53:27015  
+Name: #TTPK CS:GO Server Deathmatch by TTPK.DE  
 Collection: #TTPK Deathmatch Collection  
 Passwort: Kein Passwort  
 
-**ARMSRACE-Server**  
-IP-Adresse: 141.101.33.156:27215  
-Name: #TTPK CS:GO Server Armsrace  
+**[#2] CASUAL-Server (“CLASSIC”)**  
+IP-Adresse: 176.9.104.53:27115  
+Name: #TTPK CS:GO Server Casual by TTPK.DE  
+Collection: #TTPK Classic Collection  
+Passwort: Kein Passwort  
+
+**[#3] ARMSRACE-Server**  
+IP-Adresse: 176.9.104.53:27215  
+Name: #TTPK CS:GO Server Armsrace by TTPK.DE  
 Collection: #TTPK Armsrace Collection  
 Passwort: Kein Passwort  
 
-**DEMOLITION-Server**  
-IP-Adresse: 141.101.33.156:27315  
-Name: #TTPK CS:GO Server Demolition  
+**[#4] DEMOLITION-Server**  
+IP-Adresse: 176.9.104.53:27315  
+Name: #TTPK CS:GO Server Demolition by TTPK.DE  
 Collection: #TTPK Demolition Collection  
 Passwort: Kein Passwort  
+
+**[#5] COMPETITIVE-Server (ESL)**  
+IP-Adresse: 176.9.104.53:27415  
+Name: #TTPK CS:GO Server ESL Competitive by TTPK.DE  
+Collection: #TTPK Competitive ESL Collection  
+Passwort: Kein Passwort  
+
+**[#6] COMPETITIVE-Server (FUN)**  
+IP-Adresse: 176.9.104.53:27515  
+Name: #TTPK CS:GO Server FUN Competitive by TTPK.DE  
+Collection: #TTPK Competitive FUN Collection  
+Passwort: Kein Passwort  
+
 
 ## Anleitungen
 

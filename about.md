@@ -15,7 +15,6 @@ Zurzeit spielen wir zum Beispiel folgende Spiele:
 * GRID Autosport
 * Age of Empires II: HD Edition
 * Dino D-Day
-
 * NASCAR '14
 * DiRT Showdown
 * Left 4 Dead 2 (L4D2)

@@ -10,8 +10,8 @@ Wir sind eine Gruppe von Spielern, Bloggern und Co., die sich je nach eigener Ve
 
 Zurzeit spielen wir zum Beispiel folgende Spiele:
 
-* Counter-Strike: Global Offensive (CS:GO) ([Serverdaten](http://wiki.ttpk.de/csgo-server/)])
-* Insurgency ([Serverdaten](http://wiki.ttpk.de/insurgency-server/)])
+* Counter-Strike: Global Offensive (CS:GO) ([Serverdaten](http://wiki.ttpk.de/csgo-server/))
+* Insurgency ([Serverdaten](http://wiki.ttpk.de/insurgency-server/))
 * GRID Autosport
 * Age of Empires II: HD Edition
 * Dino D-Day

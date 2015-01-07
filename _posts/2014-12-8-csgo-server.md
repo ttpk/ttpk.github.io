@@ -11,37 +11,37 @@ Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele u
 
 **[#1] DEATHMATCH-Server**  
 IP-Adresse: 176.9.104.53:27015  
-Name: #TTPK CS:GO Server Deathmatch by TTPK.DE  
+Name: #TTPK CS:GO Server #1 Deathmatch by TTPK.DE  
 Collection: #TTPK Deathmatch Collection  
 Passwort: Kein Passwort  
 
 **[#2] CASUAL-Server (“CLASSIC”)**  
 IP-Adresse: 176.9.104.53:27115  
-Name: #TTPK CS:GO Server Casual by TTPK.DE  
+Name: #TTPK CS:GO Server #2 Casual by TTPK.DE  
 Collection: #TTPK Classic Collection  
 Passwort: Kein Passwort  
 
 **[#3] ARMSRACE-Server**  
 IP-Adresse: 176.9.104.53:27215  
-Name: #TTPK CS:GO Server Armsrace by TTPK.DE  
+Name: #TTPK CS:GO Server #3 Armsrace by TTPK.DE  
 Collection: #TTPK Armsrace Collection  
 Passwort: Kein Passwort  
 
 **[#4] DEMOLITION-Server**  
 IP-Adresse: 176.9.104.53:27315  
-Name: #TTPK CS:GO Server Demolition by TTPK.DE  
+Name: #TTPK CS:GO Server #4 Demolition by TTPK.DE  
 Collection: #TTPK Demolition Collection  
 Passwort: Kein Passwort  
 
 **[#5] COMPETITIVE-Server (ESL)**  
 IP-Adresse: 176.9.104.53:27415  
-Name: #TTPK CS:GO Server ESL Competitive by TTPK.DE  
+Name: #TTPK CS:GO Server #5 ESL Competitive by TTPK.DE  
 Collection: #TTPK Competitive ESL Collection  
 Passwort: Kein Passwort  
 
 **[#6] COMPETITIVE-Server (FUN)**  
 IP-Adresse: 176.9.104.53:27515  
-Name: #TTPK CS:GO Server FUN Competitive by TTPK.DE  
+Name: #TTPK CS:GO Server #6 FUN Competitive by TTPK.DE  
 Collection: #TTPK Competitive FUN Collection  
 Passwort: Kein Passwort  
 
@@ -86,3 +86,18 @@ TTPK Competitive FUN Collection
 
 TTPK Classic Collection TESTING  
 [http://steamcommunity.com/sharedfiles/filedetails/?id=316697662](http://steamcommunity.com/sharedfiles/filedetails/?id=316697662)  
+
+
+## Server-Statistiken/Banner
+
+[![TTPK CS:GO Server #1](http://cache.www.gametracker.com/server_info/176.9.104.53:27015/b_560_95_1.png "TTPK CS:GO Server #1 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27015/)  
+
+[![TTPK CS:GO Server #2](http://cache.www.gametracker.com/server_info/176.9.104.53:27115/b_560_95_1.png "TTPK CS:GO Server #2 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27115/)  
+
+[![TTPK CS:GO Server #3](http://cache.www.gametracker.com/server_info/176.9.104.53:27215/b_560_95_1.png "TTPK CS:GO Server #3 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27215/)  
+
+[![TTPK CS:GO Server #4](http://cache.www.gametracker.com/server_info/176.9.104.53:27315/b_560_95_1.png "TTPK CS:GO Server #4 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27315/)  
+
+[![TTPK CS:GO Server #5](http://cache.www.gametracker.com/server_info/176.9.104.53:27415/b_560_95_1.png "TTPK CS:GO Server #5 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27415/)  
+
+[![TTPK CS:GO Server #6](http://cache.www.gametracker.com/server_info/176.9.104.53:27515/b_560_95_1.png "TTPK CS:GO Server #6 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:27515/)  

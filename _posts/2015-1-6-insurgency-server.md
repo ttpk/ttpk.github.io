@@ -58,10 +58,10 @@ Sollte ein Steam-Freund gerade spielen, ihr aber keine Ahnung haben wo, lasst eu
 
 [![TTPK Insurgency Server #1](http://cache.www.gametracker.com/server_info/176.9.104.53:28015/b_560_95_1.png "TTPK Insurgency Server #1 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28015/)  
 
-![TTPK Insurgency Server #2](http://cache.www.gametracker.com/server_info/176.9.104.53:28115/b_560_95_1.png "TTPK Insurgency Server #2 - Server-Stats by Gametracker")  
+[![TTPK Insurgency Server #2](http://cache.www.gametracker.com/server_info/176.9.104.53:28115/b_560_95_1.png "TTPK Insurgency Server #2 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28115/)  
 
-![TTPK Insurgency Server #3](http://cache.www.gametracker.com/server_info/176.9.104.53:28215/b_560_95_1.png "TTPK Insurgency Server #3 - Server-Stats by Gametracker")  
+[![TTPK Insurgency Server #3](http://cache.www.gametracker.com/server_info/176.9.104.53:28215/b_560_95_1.png "TTPK Insurgency Server #3 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28215/)  
 
-![TTPK Insurgency Server #4](http://cache.www.gametracker.com/server_info/176.9.104.53:28315/b_560_95_1.png "TTPK Insurgency Server #4 - Server-Stats by Gametracker")  
+[![TTPK Insurgency Server #4](http://cache.www.gametracker.com/server_info/176.9.104.53:28315/b_560_95_1.png "TTPK Insurgency Server #4 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28315/)  
 
-![TTPK Insurgency Server #5](http://cache.www.gametracker.com/server_info/176.9.104.53:28415/b_560_95_1.png "TTPK Insurgency Server #5 - Server-Stats by Gametracker")  
+[![TTPK Insurgency Server #5](http://cache.www.gametracker.com/server_info/176.9.104.53:28415/b_560_95_1.png "TTPK Insurgency Server #5 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28415/)  

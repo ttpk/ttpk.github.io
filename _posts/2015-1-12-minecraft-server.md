@@ -11,7 +11,7 @@ Seit Januar 2015 betreiben wir einen eigenen Minecraft-Server auf Basis von Craf
 Server-Adresse: server.ttpk.de:25565  
 Name: #TTPK Minecraft Server Secret  
 Whitelist: Eintrag vom Admin wird benötigt  
-World-Map: ([http://server.ttpk.de:8123](http://server.ttpk.de:8123))  
+World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)  
 
 ## Anleitungen und FAQ
 
@@ -21,14 +21,17 @@ Wir haben aktuell maximal 50 Slots, die aktiv genutzt werden können. Sprich, au
 **Warum nicht Public?**  
 Wir möchten nicht unbedingt Sicherheits-PlugIns einsetzen oder andere Maßnahmen ergreifen, um die Gebäude oder gesammelten Materialien vor Dieben und Vandalen zu schützen. Also lassen wir nur Menschen auf unseren Server, die mindestens eine Person aus unserer Gruppe kennt. Die Anzahl ist uns egal, es geht rein um die Sicherheit. Niemand verschwendet gerne seine Zeit und Nerven.  
 
+**Muss man die Mods/PlugIns auch lokal installieren?**  
+Nein, es ist nicht nötig, dass du die PlugIns auch auf deinem lokalen System installierst. Du kannst die Funktionen vom Server nutzen. Weiter unten findest du eine Liste aller von uns verwendeten PlugIns. Dort sind auch jeweils die Funktionen und Commands erläutert.  
+
 ## PlugIns
 
-* ([Ultimate Core](//dev.bukkit.org/bukkit-plugins/ultimate_core/))
-* ([Dynmap](//dev.bukkit.org/bukkit-plugins/dynmap/))
-* ([Brewery](//dev.bukkit.org/bukkit-plugins/brewery/))
-* ([Health Bar](//dev.bukkit.org/bukkit-plugins/health-bar/))
-* ([TARDIS](//dev.bukkit.org/bukkit-plugins/tardis/))
-* ([Creative Gates](//dev.bukkit.org/bukkit-plugins/creativegates/))
-* ([Massive Core](//dev.bukkit.org/bukkit-plugins/mcore/))
-* ([Lockette](//dev.bukkit.org/bukkit-plugins/lockette/))
-* ([Anti X-Ray](//dev.bukkit.org/bukkit-plugins/anti-x-ray/))
+* [Ultimate Core](//dev.bukkit.org/bukkit-plugins/ultimate_core/)
+* [Dynmap](//dev.bukkit.org/bukkit-plugins/dynmap/)
+* [Brewery](//dev.bukkit.org/bukkit-plugins/brewery/)
+* [Health Bar](//dev.bukkit.org/bukkit-plugins/health-bar/)
+* [TARDIS](//dev.bukkit.org/bukkit-plugins/tardis/)
+* [Creative Gates](//dev.bukkit.org/bukkit-plugins/creativegates/)
+* [Massive Core](//dev.bukkit.org/bukkit-plugins/mcore/)
+* [Lockette](//dev.bukkit.org/bukkit-plugins/lockette/)
+* [Anti X-Ray](//dev.bukkit.org/bukkit-plugins/anti-x-ray/)

@@ -10,35 +10,35 @@ Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele u
 ## Serverdaten
 
 **[#1] Öffentlicher Server mit max. 16 Spielern (8v8)**  
-IP-Adresse: 176.9.104.53:28015  
+IP-Adresse: server.ttpk.de:28015  
 Name: #TTPK Insurgency Server #1 [16 Players | Open] by TTPK.DE  
 Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
 Passwort: Kein Passwort  
 Besonderheiten: Keine  
 
 **[#2] Öffentlicher Server mit max. 32 Spielern (16v16)**  
-IP-Adresse: 176.9.104.53:28115  
+IP-Adresse: server.ttpk.de:28115  
 Name: #TTPK Insurgency Server #2 [32 Players | Open] by TTPK.DE  
 Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
 Passwort: Kein Passwort  
 Besonderheiten: Keine  
 
 **[#3] Geschützter Server mit max. 16 Spielern (8v8)**  
-IP-Adresse: 176.9.104.53:28215  
+IP-Adresse: server.ttpk.de:28215  
 Name: #TTPK Insurgency Server #3 [16 Players | Secret] by TTPK.DE  
 Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
-Passwort: TTPK  
+Passwort: Kein Passwort - Nur für Mitglieder der Steam-TTPK-Gruppe  
 Besonderheiten: 4v4 Bots, wenn nicht genug Spieler vorhanden  
 
 **[#4] Geschützter COOP-Server mit max. 8 Spielern**  
-IP-Adresse: 176.9.104.53:28315  
+IP-Adresse: server.ttpk.de:28315  
 Name: #TTPK Insurgency Server #4 [COOP | Secret] by TTPK.DE  
 Maps/Modes: Alle offiziellen COOP-Maps | Survival, COOP, Hunt  
-Passwort: TTPK  
+Passwort: Kein Passwort - Nur für Mitglieder der Steam-TTPK-Gruppe  
 Besonderheiten: Keine  
 
 **[#5] Öffentlicher COOP-Server mit max. 8 Spielern**  
-IP-Adresse: 176.9.104.53:28415  
+IP-Adresse: server.ttpk.de:28415  
 Name: #TTPK Insurgency Server #5 [COOP | Open] by TTPK.DE  
 Maps/Modes: Alle offiziellen Maps | Survival, COOP, Hunt  
 Passwort: Kein Passwort  

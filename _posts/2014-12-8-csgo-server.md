@@ -10,37 +10,37 @@ Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele u
 ## Serverdaten
 
 **[#1] DEATHMATCH-Server**  
-IP-Adresse: 176.9.104.53:27015  
+IP-Adresse: server.ttpk.de:27015  
 Name: #TTPK CS:GO Server #1 Deathmatch by TTPK.DE  
 Collection: #TTPK Deathmatch Collection  
 Passwort: Kein Passwort  
 
 **[#2] CASUAL-Server (“CLASSIC”)**  
-IP-Adresse: 176.9.104.53:27115  
+IP-Adresse: server.ttpk.de:27115  
 Name: #TTPK CS:GO Server #2 Casual by TTPK.DE  
 Collection: #TTPK Classic Collection  
 Passwort: Kein Passwort  
 
 **[#3] ARMSRACE-Server**  
-IP-Adresse: 176.9.104.53:27215  
+IP-Adresse: server.ttpk.de:27215  
 Name: #TTPK CS:GO Server #3 Armsrace by TTPK.DE  
 Collection: #TTPK Armsrace Collection  
 Passwort: Kein Passwort  
 
 **[#4] DEMOLITION-Server**  
-IP-Adresse: 176.9.104.53:27315  
+IP-Adresse: server.ttpk.de:27315  
 Name: #TTPK CS:GO Server #4 Demolition by TTPK.DE  
 Collection: #TTPK Demolition Collection  
 Passwort: Kein Passwort  
 
 **[#5] COMPETITIVE-Server (ESL)**  
-IP-Adresse: 176.9.104.53:27415  
+IP-Adresse: server.ttpk.de:27415  
 Name: #TTPK CS:GO Server #5 ESL Competitive by TTPK.DE  
 Collection: #TTPK Competitive ESL Collection  
 Passwort: Kein Passwort  
 
 **[#6] COMPETITIVE-Server (FUN)**  
-IP-Adresse: 176.9.104.53:27515  
+IP-Adresse: server.ttpk.de:27515  
 Name: #TTPK CS:GO Server #6 FUN Competitive by TTPK.DE  
 Collection: #TTPK Competitive FUN Collection  
 Passwort: Kein Passwort  

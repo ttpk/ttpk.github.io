@@ -10,7 +10,7 @@ Wir verwenden zur In-Game-Kommunikation ausschließlich TeamSpeak. Bevor ihr in 
 ## Serverdaten
 
 Name: Die Feierabendbude  
-IP-Adresse: 85.114.154.43:10451  
+Server-Adresse: ts.ttpk.de:10451  
 Passwort: bananarama  
 
 Wir verwenden in der Regel folgende Räume (Channels):

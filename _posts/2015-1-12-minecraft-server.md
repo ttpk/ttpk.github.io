@@ -13,6 +13,32 @@ Name: #TTPK Minecraft Server Secret
 Whitelist: Eintrag vom Admin wird benötigt  
 World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)  
 
+## PlugIns
+
+* [Ultimate Core](http://dev.bukkit.org/bukkit-plugins/ultimate_core/)
+* [Dynmap](http://dev.bukkit.org/bukkit-plugins/dynmap/)
+* [Brewery](http://dev.bukkit.org/bukkit-plugins/brewery/)
+* [Health Bar](http://dev.bukkit.org/bukkit-plugins/health-bar/)
+* [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/)
+* [Creative Gates](http://dev.bukkit.org/bukkit-plugins/creativegates/)
+* [Massive Core](http://dev.bukkit.org/bukkit-plugins/mcore/)
+* [Lockette](http://dev.bukkit.org/bukkit-plugins/lockette/)
+* _[Anti X-Ray](http://dev.bukkit.org/bukkit-plugins/anti-x-ray/)_ (nicht mehr aktiv)
+* [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)
+
+## Texturen-Pakete
+
+Wir verwenden das Texture-Pack (Resource-Pack) "[SphaxPureBDcraft](http://bdcraft.net/)". Je nachdem wie stark dein Rechner und deine Grafikkarte ist, kannst du eine höhere Auflösung der Texturen verwenden. Für ein Apple MacBook Air ist zum Beispiel eher 64x64 Pixel zu empfehlen, auf einem Apple iMac der neuesten Generation läuft 128x128 Pixel ohne weitere Probleme.  
+
+Wir haben eine eigene Repo für die Texture-Packs, du kannst sie hier für Minecraft 1.8 downloaden, das wir aktuell auf dem Server verwenden:  
+
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/16x_MC18.zip](16x16 Pixel)
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/32x_MC18.zip](32x32 Pixel)
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/64x_MC18.zip](64x64 Pixel)
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/128x_MC18.zip](128x128 Pixel)
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/256x_MC18.zip](256x256 Pixel)
+* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/512x_MC18.zip](512x512 Pixel)
+
 ## Anleitungen und FAQ
 
 **Wie viele Slots gibt es?**  
@@ -24,15 +50,8 @@ Wir möchten nicht unbedingt Sicherheits-PlugIns einsetzen oder andere Maßnahme
 **Muss man die Mods/PlugIns auch lokal installieren?**  
 Nein, es ist nicht nötig, dass du die PlugIns auch auf deinem lokalen System installierst. Du kannst die Funktionen vom Server nutzen. Weiter unten findest du eine Liste aller von uns verwendeten PlugIns. Dort sind auch jeweils die Funktionen und Commands erläutert.  
 
-## PlugIns
+**Minecraft mit mehr Arbeitsspeicher?**  
+Wenn du Minecraft startest, siehst du als allererstes den "Minecraft Launcher". In diesem klickst du unten links auf "Edit Profile", um deine Einstellungen anzupassen. Im neuen Fenster gehst du ganz unten in die Zeile "JVM Arguments". Sollte dort noch kein Haken gesetzt sein, setzt du bitte einen. In der ersten Angabe ("-Xmx1G") wird festgelegt, wie viel RAM dein Minecraft verwenden darf. Je nachdem wie viel RAM dein Rechner zur Verfügung hat, solltest du einen Wert zwischen 50-75% deines Arbeitsspeichers zuweisen. Wenn dein Rechner also beispielsweise 8 GB RAM verbaut hat, stellst du Minecraft maximal vier bis sechs Gigabyte zur Verfügung. Die Eingabe würde also "-Xmx4G" respektive "-Xmx6G" lauten. Nun klickst du auf "Save Profile" und startest dein Minecraft.  
 
-* [Ultimate Core](http://dev.bukkit.org/bukkit-plugins/ultimate_core/)
-* [Dynmap](http://dev.bukkit.org/bukkit-plugins/dynmap/)
-* [Brewery](http://dev.bukkit.org/bukkit-plugins/brewery/)
-* [Health Bar](http://dev.bukkit.org/bukkit-plugins/health-bar/)
-* [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/)
-* [Creative Gates](http://dev.bukkit.org/bukkit-plugins/creativegates/)
-* [Massive Core](http://dev.bukkit.org/bukkit-plugins/mcore/)
-* [Lockette](http://dev.bukkit.org/bukkit-plugins/lockette/)
-* _[Anti X-Ray](http://dev.bukkit.org/bukkit-plugins/anti-x-ray/)_ (nicht mehr)
-* [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)
+**Wie installiere ich ein Texture-Pack?**  
+Du öffnest ganz normal dein Minecraft, klickst auf "Options..." und dann auf "Resource Packs...". Unten links findest du den Button "Open resource pack folder". Wenn du diesen Button anklickst, öffnet dein Explorer/Finder einen Ordner in einem Fenster. In diesen Ordner kopierst du nun die ZIP-Datei von deinem Texture-Pack-Download (Richtig, nicht entpacken!). Nun schließt du das Fenster und klickst in Minecraft auf "Done". Nun wieder auf "Resource Packs...". In der linken Spalte siehst du nun dein neues Texture-Pack. Klicke auf den Play-Button im Texture-Pack. Es wird auf die rechte Seite ("Selected Resource Packs") geschoben. Nun auf "Done". Gegebenenfalls musst du nur noch einmal dein Minecraft neustarten.  

@@ -26,12 +26,13 @@ Nein, es ist nicht nötig, dass du die PlugIns auch auf deinem lokalen System in
 
 ## PlugIns
 
-* [Ultimate Core](//dev.bukkit.org/bukkit-plugins/ultimate_core/)
-* [Dynmap](//dev.bukkit.org/bukkit-plugins/dynmap/)
-* [Brewery](//dev.bukkit.org/bukkit-plugins/brewery/)
-* [Health Bar](//dev.bukkit.org/bukkit-plugins/health-bar/)
-* [TARDIS](//dev.bukkit.org/bukkit-plugins/tardis/)
-* [Creative Gates](//dev.bukkit.org/bukkit-plugins/creativegates/)
-* [Massive Core](//dev.bukkit.org/bukkit-plugins/mcore/)
-* [Lockette](//dev.bukkit.org/bukkit-plugins/lockette/)
-* [Anti X-Ray](//dev.bukkit.org/bukkit-plugins/anti-x-ray/)
+* [Ultimate Core](http://dev.bukkit.org/bukkit-plugins/ultimate_core/)
+* [Dynmap](http://dev.bukkit.org/bukkit-plugins/dynmap/)
+* [Brewery](http://dev.bukkit.org/bukkit-plugins/brewery/)
+* [Health Bar](http://dev.bukkit.org/bukkit-plugins/health-bar/)
+* [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/)
+* [Creative Gates](http://dev.bukkit.org/bukkit-plugins/creativegates/)
+* [Massive Core](http://dev.bukkit.org/bukkit-plugins/mcore/)
+* [Lockette](http://dev.bukkit.org/bukkit-plugins/lockette/)
+* _[Anti X-Ray](http://dev.bukkit.org/bukkit-plugins/anti-x-ray/)_ (nicht mehr)
+* [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)

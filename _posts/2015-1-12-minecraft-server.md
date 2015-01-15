@@ -32,12 +32,12 @@ Wir verwenden das Texture-Pack (Resource-Pack) "[SphaxPureBDcraft](http://bdcraf
 
 Wir haben eine eigene Repo für die Texture-Packs, du kannst sie hier für Minecraft 1.8 downloaden, das wir aktuell auf dem Server verwenden:  
 
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/16x_MC18.zip](16x16 Pixel)
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/32x_MC18.zip](32x32 Pixel)
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/64x_MC18.zip](64x64 Pixel)
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/128x_MC18.zip](128x128 Pixel)
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/256x_MC18.zip](256x256 Pixel)
-* [http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/512x_MC18.zip](512x512 Pixel)
+* [16x16 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/16x_MC18.zip)
+* [32x32 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/32x_MC18.zip)
+* [64x64 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/64x_MC18.zip)
+* [128x128 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/128x_MC18.zip)
+* [256x256 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/256x_MC18.zip)
+* [512x512 Pixel](http://repo.ttpk.de/minecraft/textures/SphaxPureBDcraft/latest/512x_MC18.zip)
 
 ## Anleitungen und FAQ
 

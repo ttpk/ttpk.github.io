@@ -13,13 +13,7 @@ Grundsätzliche werden die Befehle in eure Chat-Konsole eingegeben. Standardmä�
 ### Allgemeines
 
 * **/fly**  
-Lässt euch fliegen. Zweimal auf die "Leertaste" drücken und der Flugmodus wird aktiviert. Mit gedrückter "Leertaste" geht es höher, mit "Shift" geht es tiefer. Zweimal "Shift" drücken beendet den Flugmodus.
-* **/getpos**  
-Zeigt euch eure aktuellen Koordinaten an.
-* **/coords mightynoise**  
-Zeigt die aktuellen Koordinaten des Spielers "mightynoise" an.
-* **/compass**  
-Zeigt euch einen Kompass zur besseren Orientierung an.
+Lässt euch fliegen. Zweimal auf die "Leertaste" drücken und der Flugmodus wird aktiviert. Mit gedrückter "Leertaste" geht es höher, mit "Shift" geht es tiefer.
 * **/me isst Kekse**  
 Eine Chat-Nachricht im "me-Format".
 * **/w mightynoise Hallo!**  
@@ -33,11 +27,9 @@ Zeigt den echten Nickname des Spielers "Andi" an.
 * **/speed 10 mightynoise**  
 Ändert die Geschwindigkeit des Spielers "mightynoise" auf "10". Werte zwischen -10 und 10 sind erlaubt.
 * **/weather sun**  
-Ändert das Wetter auf "sun". Weitere Variablen wären "rain" und "thunder".
+Ändert das Wetter auf "sun". Weitere Variablen wären "rain", "thunder" und "clear".
 * **/time day**  
 Ändert die Uhrzeit im Spiel auf "day". Weitere Variablen wären "night" oder eine Zahl als Uhrzeit.
-* **/playerlist**  
-Zeigt alle Spieler auf dem Server an.
 
 ### Teleporting
 

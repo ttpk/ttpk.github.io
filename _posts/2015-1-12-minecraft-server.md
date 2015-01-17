@@ -25,6 +25,7 @@ World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)
 * [Lockette](http://dev.bukkit.org/bukkit-plugins/lockette/)
 * _[Anti X-Ray](http://dev.bukkit.org/bukkit-plugins/anti-x-ray/)_ (nicht mehr aktiv)
 * [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)
+* [Ultimate Plugin Updater](http://dev.bukkit.org/bukkit-plugins/ultimatepluginupdater/)
 
 ## Texturen-Pakete
 

@@ -3,7 +3,7 @@ layout: post
 title: Minecraft liteloader einrichten
 ---
 
-So langsam sind wir an dem Punkt, an dem es praktisch sein kann, lokal Mods in Minecraft einzubauen. Die einfachste Möglichkeit ist erstmal der LiteLoader. Dessen Setup ist ziemlich simpel und die Mods funktionieren zuverlässig - auch wenn es nicht unendlich viele sind.
+So langsam sind wir an dem Punkt, an dem es praktisch sein kann, lokal Mods in Minecraft einzubauen. Die einfachste Möglichkeit ist erstmal der liteloader. Dessen Setup ist ziemlich simpel und die Mods funktionieren zuverlässig - auch wenn es nicht unendlich viele sind.
 
 ## Download 
 Die aktuelle Version des liteloaders bekommt ihr auf deren [Homepage](http://www.liteloader.com/download). Die stable Version ist allerdings aktuell für 1.7.10. Da wir Version 1.8(.1) verwenden, benötigt ihr die [development Version](http://jenkins.liteloader.com/job/LiteLoaderInstaller/). Die Windows-Leute laden sich bitte die .exe, der Rest nimmt die .jar.

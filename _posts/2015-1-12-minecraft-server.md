@@ -6,7 +6,7 @@ title: Minecraft-Serverdaten
 
 Seit Januar 2015 betreiben wir einen eigenen Minecraft-Server auf Basis von CraftBukkit 1.8+ mit mehreren aktiven PlugIns (Liste siehe unten). Unser Minecraft-Server ist nicht public. Um bei uns mitspielen zu können, müssen wir dich kennen und dementsprechend manuell zur Whitelist hinzufügen. Solltest du uns kennen, findest du sicher einen Kommunikationsweg um uns dein Anliegen mitzuteilen. Um diesen Server kümmert sich Andi ([mightynoise.com](http://www.mightynoise.com)).  
 
-Seit März 2015 betreiben wir einen zweiten Minecraft-Server auf Basis von CraftBukkit 1.8+. Die aktiven PlugIns könnt ihr ebenfalls unten aufgelistet sehen. Besonders an diesem Server ist, dass wir die Standard-Einstellungen zu den World-Resources beibehalten haben, nur die Biome etwas verkleindert haben, damit man mehr Variationen in dirkter Nähe hat.  
+Seit März 2015 betreiben wir einen zweiten Minecraft-Server auf Basis von CraftBukkit 1.8+. Die aktiven PlugIns könnt ihr ebenfalls unten aufgelistet sehen. Besonders an diesem Server ist, dass wir die Standard-Einstellungen zu den World-Resources beibehalten, nur die Biome etwas verkleindert haben, damit man etwas mehr Variation in direkter Nähe hat.  
 
 ## Serverdaten
 

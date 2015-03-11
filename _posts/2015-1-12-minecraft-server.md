@@ -13,7 +13,12 @@ Name: #TTPK Minecraft Server Secret
 Whitelist: Eintrag vom Admin wird benötigt  
 World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)  
 
-## PlugIns
+Server-Adresse: server.ttpk.de:25665  
+Name: #TTPK Minecraft Server Secret #2  
+Whitelist: Eintrag vom Admin wird benötigt  
+World-Map: [http://server.ttpk.de:8456](http://server.ttpk.de:8456)  
+
+## PlugIns auf Server #1 (server.ttpk.de:25565)
 
 * [Ultimate Core](http://dev.bukkit.org/bukkit-plugins/ultimate_core/)
 * [Dynmap](http://dev.bukkit.org/bukkit-plugins/dynmap/)
@@ -26,6 +31,11 @@ World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)
 * _[Anti X-Ray](http://dev.bukkit.org/bukkit-plugins/anti-x-ray/)_ (nicht mehr aktiv)
 * [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)
 * [Ultimate Plugin Updater](http://dev.bukkit.org/bukkit-plugins/ultimatepluginupdater/)
+
+## PlugIns auf Server #2 (server.ttpk.de:25665)
+
+* [Dynmap](http://dev.bukkit.org/bukkit-plugins/dynmap/)
+* [WoodCutter](http://dev.bukkit.org/bukkit-plugins/woodcutter/)
 
 ## Texturen-Pakete
 

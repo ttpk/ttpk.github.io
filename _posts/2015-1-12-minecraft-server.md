@@ -16,8 +16,8 @@ Whitelist: Eintrag vom Admin wird benötigt
 World-Map: [http://server.ttpk.de:8123](http://server.ttpk.de:8123)  
 
 Server-Adresse: server.ttpk.de:25665  
-Name: #TTPK Minecraft Server Secret #2  
-Whitelist: Eintrag vom Admin wird benötigt  
+Name: #TTPK Minecraft Server Open #2  
+Whitelist: offener Server  
 World-Map: [http://server.ttpk.de:8456](http://server.ttpk.de:8456)  
 
 ## PlugIns auf Server #1 (server.ttpk.de:25565)

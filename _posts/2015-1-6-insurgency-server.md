@@ -12,29 +12,29 @@ Steam updatet von Zeit zu Zeit (und zwar vollkommen unvorhersehbar) die Spiele u
 **[#1] Öffentlicher Server mit max. 16 Spielern (8v8)**  
 IP-Adresse: server.ttpk.de:28015  
 Name: #TTPK Insurgency Server #1 [16 Players | Open] by TTPK.DE  
-Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
+Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint...  
 Passwort: Kein Passwort  
 Besonderheiten: Keine  
 
 **[#2] Öffentlicher Server mit max. 32 Spielern (16v16)**  
 IP-Adresse: server.ttpk.de:28115  
 Name: #TTPK Insurgency Server #2 [32 Players | Open] by TTPK.DE  
-Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
+Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint...  
 Passwort: Kein Passwort  
 Besonderheiten: Keine  
 
 **[#3] Geschützter Server mit max. 16 Spielern (8v8)**  
 IP-Adresse: server.ttpk.de:28215  
-Name: #TTPK Insurgency Server #3 [16 Players | Secret] by TTPK.DE  
-Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint  
-Passwort: Kein Passwort - Nur für Mitglieder der Steam-TTPK-Gruppe  
+Name: #TTPK Insurgency Server #3 [16 Players | Secured] by TTPK.DE  
+Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint...  
+Passwort: ttpk  
 Besonderheiten: 4v4 Bots, wenn nicht genug Spieler vorhanden  
 
 **[#4] Geschützter COOP-Server mit max. 8 Spielern**  
 IP-Adresse: server.ttpk.de:28315  
-Name: #TTPK Insurgency Server #4 [COOP | Secret] by TTPK.DE  
+Name: #TTPK Insurgency Server #4 [COOP | Secured] by TTPK.DE  
 Maps/Modes: Alle offiziellen COOP-Maps | Survival, COOP, Hunt  
-Passwort: Kein Passwort - Nur für Mitglieder der Steam-TTPK-Gruppe  
+Passwort: ttpk  
 Besonderheiten: Keine  
 
 **[#5] Öffentlicher COOP-Server mit max. 8 Spielern**  

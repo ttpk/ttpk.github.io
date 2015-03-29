@@ -44,6 +44,24 @@ Maps/Modes: Alle offiziellen Maps | Survival, COOP, Hunt
 Passwort: Kein Passwort  
 Besonderheiten: Keine  
 
+**[#6] Interner Test-Server**  
+IP-Adresse: server.ttpk.de:28515 (wird nur bei Issues gestartet)  
+Name: #TTPK Insurgency Server #6 [TESTING] by TTPK.DE  
+
+**[#7] Öffentlicher Server mit max. 16 Spielern (8v8)**  
+IP-Adresse: server.ttpk.de:28615  
+Name: #TTPK Insurgency Server #7 [16 Players | Open] by TTPK.DE  
+Maps/Modes: Alle offiziellen Maps | Push, Firefight, Skirmish, Occupy, Infiltrate, Strike, Ambush, Flashpoint...  
+Passwort: Kein Passwort  
+Besonderheiten: Keine  
+
+**[#8] Öffentlicher COOP-Server mit max. 8 Spielern**  
+IP-Adresse: server.ttpk.de:28715  
+Name: #TTPK Insurgency Server #8 [COOP | Open] by TTPK.DE  
+Maps/Modes: Alle offiziellen Maps | Survival, COOP, Hunt  
+Passwort: Kein Passwort  
+Besonderheiten: Keine  
+
 
 ## Anleitungen
 

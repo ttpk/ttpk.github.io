@@ -83,3 +83,7 @@ Sollte ein Steam-Freund gerade spielen, ihr aber keine Ahnung haben wo, lasst eu
 [![TTPK Insurgency Server #4](http://cache.www.gametracker.com/server_info/176.9.104.53:28315/b_560_95_1.png "TTPK Insurgency Server #4 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28315/)  
 
 [![TTPK Insurgency Server #5](http://cache.www.gametracker.com/server_info/176.9.104.53:28415/b_560_95_1.png "TTPK Insurgency Server #5 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28415/)  
+
+[![TTPK Insurgency Server #7](http://cache.www.gametracker.com/server_info/176.9.104.53:28615/b_560_95_1.png "TTPK Insurgency Server #7 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28615/)  
+
+[![TTPK Insurgency Server #8](http://cache.www.gametracker.com/server_info/176.9.104.53:28715/b_560_95_1.png "TTPK Insurgency Server #8 - Server-Stats by Gametracker")](http://www.gametracker.com/server_info/176.9.104.53:28715/)  

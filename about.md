@@ -12,6 +12,7 @@ Zurzeit spielen wir zum Beispiel folgende Spiele:
 
 * Counter-Strike: Global Offensive (CS:GO) ([Serverdaten](http://wiki.ttpk.de/csgo-server/))
 * Insurgency ([Serverdaten](http://wiki.ttpk.de/insurgency-server/))
+* Minecraft ([Serverdaten](http://wiki.ttpk.de/minecraft-server/))
 * GRID Autosport
 * Age of Empires II: HD Edition
 * Dino D-Day

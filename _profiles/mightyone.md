@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Und los!
 permalink: /profiles/mightyone1
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: CS:GO-Serverdaten
+title: Und los!
+permalink: /profiles/mightytwo2
 ---
 
 Die CS:GO-Server werden gesponsert von Andi ([mightynoise.com](http://www.mightynoise.com)), der auch gleichzeitig der Ansprechpartner für eventuelle Fragen zu den Servern ist. Ihr erreicht ihn via Twitter unter [@mightynoise](https://twitter.com/mightynoise).

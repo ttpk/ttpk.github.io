@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Und los!
+permalink: /profiles/mightyone1
 ---
 
 Yippie-Ka-Yeah, MOFO!

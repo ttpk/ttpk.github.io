@@ -25,6 +25,26 @@ Du kannst auch ohne PayPal-Konto gerne dein Geld für die gute Sache loswerden! 
 **BIC:** GENODEM1GLS  
 **Verwendungszweck:** TTPK  
 
+## Spenden und Spendenstand
+
+**Spender:**  
+* Thilo (Charles Besowski): 10 Euro  
+* Sabine (sschwarzkopf): 5 Euro  
+* Thilo (darth_t1): 8 Euro  
+* Claudio (purzlbaum): 15 Euro  
+* Rico (ferox): 5 Euro  
+* Thilo (Charles Besowski): 30 Euro  
+* Andi (Thanatos Nyx): 80 Euro
+
+**Gesamte Einnahmen: 153 Euro** (abzüglich PayPal-Gebühren)  
+**Gesamte Ausgaben: ca. 182 Euro**  
+
+_(Letzte Aktualisierung: 3. April 2015)_
+
+**Fixe Ausgaben:**  
+* Game-Server für alle Spiele: 39,99 Euro (monatlich)  
+* TeamSpeak-Server: 5 Euro (monatlich)  
+
 ## FAQ
 
 **Was macht ihr mit der Kohle?**  
